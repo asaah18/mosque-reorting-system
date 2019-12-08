@@ -1,6 +1,8 @@
 # mosque-reorting-system
 a website to help reporting problem about Mosques.
 
+# technology
+- python -> flask
 # what has been implemented
 ## backend
 - Add Mosque information(name, address, altitude, longitude, note) into sql lite database
