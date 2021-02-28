@@ -1,13 +1,13 @@
-# mosque-reorting-system
+# mosque-reporting-system
 a website to help reporting problem about Mosques.
 
 # technology
 - python -> flask
 # what has been implemented
 ## backend
-- Add Mosque information(name, address, altitude, longitude, note) into sql lite database
+- Add Mosque information (name, address, altitude, longitude, note) into sql lite database
 - Search for mosque by *name*
-- Update report/note of Mosque(each Mosque can only handle one report at a time)
+- Update report/note of Mosque (each Mosque can only handle one report at a time)
 - Delete Mosque by *name*
 
 ## interface
